@@ -1,8 +1,8 @@
 cwlVersion: v1.0
 class: Workflow
 dct:creator:
-foaf:name: Gary Luu
-foaf:mbox: "gary.luu@oicr.on.ca"
+  foaf:name: Gary Luu
+  foaf:mbox: "gary.luu@oicr.on.ca"
 inputs:
   inp: File
   ex: string
