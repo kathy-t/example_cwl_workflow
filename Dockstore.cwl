@@ -1,6 +1,6 @@
 cwlVersion: v1.0
 class: Workflow
-Description: "A docker container and tool for running clustalw2. Note that when you use Dockstore to create the input parameter file, not all parameters are required. You may remove from the input parameter file any parameters which are not required, unless you would like to use them. Note that not all combinations of parameters have been tested."
+description: "A docker container and tool for running clustalw2. Note that when you use Dockstore to create the input parameter file, not all parameters are required. You may remove from the input parameter file any parameters which are not required, unless you would like to use them. Note that not all combinations of parameters have been tested."
 
 dct:creator:
   foaf:name: Gary Luu
