@@ -1,5 +1,6 @@
 cwlVersion: v1.0
 class: Workflow
+doc: "CWL doc"
 
 dct:creator:
   foaf:name: Gary Luu 2
